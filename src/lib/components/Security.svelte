@@ -9,12 +9,12 @@
       <h2 class="font-serif text-3xl md:text-4xl text-gray-900 mb-6">
         Enterprise security as standard
       </h2>
-      <p class="text-gray-500 mb-2">Privacy. Security. Peace of mind.</p>
-      <p class="text-gray-500 mb-2">Never used for training.</p>
-      <p class="text-gray-500 mb-8">Round the clock enterprise security.</p>
+      <p class="text-gray-500 mb-2">Your data is your competitive advantage.</p>
+      <p class="text-gray-500 mb-2">Never used for AI training.</p>
+      <p class="text-gray-500 mb-8">GDPR compliant, SOC 2 certified.</p>
       
-      <a href="#" class="text-[var(--color-primary-blue)] font-medium hover:underline text-sm">
-        Learn more
+      <a href="#contact" class="text-gray-900 font-medium hover:underline text-sm">
+        Learn more about security
       </a>
     </div>
 
